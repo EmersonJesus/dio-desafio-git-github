@@ -1,7 +1,4 @@
-# dio-desafio-git-github
-
 # Introdução ao Git e GitHub
-
 ## O que é Git?
 
 O Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear alterações em projetos de software. Ele permite que várias pessoas colaborem no desenvolvimento de um projeto, mantendo um histórico completo de todas as alterações feitas.
